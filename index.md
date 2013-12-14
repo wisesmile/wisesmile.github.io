@@ -12,9 +12,9 @@ title: mpazaryna.github.io
   </ul>
   <h2>Production</h2>
   <ul class="posts">
-    <li><a href="http://www.gandhimemorialcenter.org">Gandhi Memorial Center</a></li>
     <li><a href="http://glowsalon.com">Glow Salon</a></li>
-    <li><a href="http://www.harvardmortgage.com">Harvard Mortgage</a></li>
+    <li><a href="http://www.gandhimemorialcenter.org">Gandhi Memorial Center</a></li>
+    <li><a href="http://www.eastportdc.org">Eastport Democratic Club</a></li>
     <li><a href="http://gandhimemorialcenter.herokuapp.com">Gandhi Center Data App</a></li>
   </ul>
   <h2>Staging</h2>
