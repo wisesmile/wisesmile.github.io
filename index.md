@@ -27,8 +27,7 @@ title: mpazaryna.github.io
   </ul>
   <h2>Koans</h2>
   <ul class="posts">
-    <li><a href="http://github.com/wisesmile/hills/">Hills</a></li>
+    <li><a href="http://wisesmile.github.io/hills/">Hills</a></li>
     <li><a href="http://bl.ocks.org/wisesmile">Blocks</a></li>
-    <li><a href="http://jsfiddle.net/user/mpazaryna/fiddles/">jsFiddle</a></li>
   </ul>
 </div>
