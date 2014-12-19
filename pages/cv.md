@@ -10,7 +10,11 @@ mpazaryna@gmail.com
 
 December 2011 - present  
 Sungard Availability Services  
-Technical Architect  
+Senior Software Engineer  
+
+Lead developer responsible for the ongoing development and enhancement of Viewpoint, a customer facing portal.  Viewpoint is
+the customer's primary tool for managing access to hosted information and related tasks.  Built with Ruby on Rails and
+Backbone Marionette.
 
 May 2006 - present
 Wisesmile  
@@ -19,6 +23,7 @@ Annapolis, Maryland
 Freelance developer providing customized applications, consulting and project management for a wide range of small business clients. 
 
 Accomplishments
+* Recast website using Squarespace - www.mudandmetal.com
 * Scheduling system for a music school
 * Bibliographic system for a library
 * Professional mentoring
@@ -28,10 +33,10 @@ Paragon Computer Professionals
 Annapolis, Maryland  
 Application Developer  
 
-Lead developer providing enhancement and ongoing maintenance of a customer portal.  The portal is a primary interface between AT&amp;T and it's customers to review of 
-critical system information.  It provides details on all aspects of performance, events and service level agreements. 
+Lead developer providing enhancement and ongoing maintenance of a customer portal.  The portal is a primary interface between AT&amp;T and it's customers to 
+review ofcritical system information.  It provides details on all aspects of performance, events and service level agreements. 
 
-Developer on the 'Service Now' project, responsible for the SOAP interface between Service Now and AT&amp;T ticketing systems.  
+Developer on the 'ServiceNow' project, responsible for the SOAP interface between Service Now and AT&amp;T ticketing systems.  
 
 June 2009 - November 2009  
 FlackVentues  
