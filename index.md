@@ -12,7 +12,8 @@ title: mpazaryna.github.io
   </ul>
   <h2>Work</h2>
   <ul class="posts">
-    <li><a href="http://wisesmile.github.io/hills/">Hills</a></li>
+    <li><a href="http://wisesmile.github.io/hills/">Hills</a></li>   
+    <li><a href="http://wisesmile.github.io/pages/cv.html">CV</a></li>
     <li><a href="http://bl.ocks.org/wisesmile">Blocks</a></li>
   </ul>
 </div>
