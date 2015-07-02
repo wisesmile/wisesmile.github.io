@@ -1,6 +1,6 @@
 ---
 layout: default
-title: mpazaryna.github.io
+title: wisesmile.github.io
 ---
 
 <div id="home">
