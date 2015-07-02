@@ -16,6 +16,9 @@ Lead developer responsible for the ongoing development and enhancement of Viewpo
 the customer's primary tool for managing access to hosted information and related tasks.  Built with Ruby on Rails and
 Backbone Marionette.
 
+Accomplishments
+* Migrate ExtJS based application to Rails
+
 May 2006 - present
 Wisesmile  
 Annapolis, Maryland  
@@ -112,6 +115,10 @@ Area of Study: Rehabilitation Counseling
 
 CONTINUING EDUCATION  
 
+React.js Training
+reactjs-training.com
+June 2015
+
 Human Computer Interaction  
 cousera.com  
 September 2012  
@@ -138,7 +145,7 @@ Eagle Scout
 Scouts of America  
 1981  
 
-ONLINE PRESENCE
+ONLINE
 
 [Blog](http://wisesmile.github.com)  
 [Github](http://www.github.com/wisesmile)  
