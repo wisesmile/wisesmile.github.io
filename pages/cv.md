@@ -16,9 +16,9 @@ Lead developer responsible for the ongoing development and enhancement of Viewpo
 the customer's primary tool for managing access to hosted information and related tasks.  Built with Ruby on Rails and
 Backbone Marionette.
 
-Accomplishments
-* Migrate Rails application to React.js
-* Migrate ExtJS based application to Rails
+Accomplishments  
+* Migrate Rails application to React.js  
+* Migrate ExtJS based application to Rails  
 
 May 2006 - present
 Wisesmile  
@@ -27,7 +27,6 @@ Annapolis, Maryland
 Freelance developer providing customized applications, consulting and project management for a wide range of small business clients. 
 
 Accomplishments
-* Recast website using Squarespace - www.mudandmetal.com
 * Scheduling system for a music school
 * Bibliographic system for a library
 * Professional mentoring
