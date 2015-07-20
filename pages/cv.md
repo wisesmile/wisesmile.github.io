@@ -17,6 +17,7 @@ the customer's primary tool for managing access to hosted information and relate
 Backbone Marionette.
 
 Accomplishments
+* Migrate Rails application to React.js
 * Migrate ExtJS based application to Rails
 
 May 2006 - present
