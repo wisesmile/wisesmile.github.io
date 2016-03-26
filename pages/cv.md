@@ -12,9 +12,10 @@ December 2011 - present
 Sungard Availability Services  
 Senior Software Engineer  
 
-Lead developer responsible for the ongoing development and enhancement of Viewpoint, a customer facing portal.  Viewpoint is
-the customer's primary tool for managing access to hosted information and related tasks.  Built with Ruby on Rails and
-Backbone Marionette.
+Lead developer responsible for the ongoing development and enhancement of 
+Viewpoint, a customer facing portal.  Viewpoint is the customer's primary 
+tool for managing access to hosted information and related tasks.  Built with 
+Ruby on Rails and Backbone Marionette and React.js
 
 Accomplishments  
 * Migrate Rails application to React.js  
@@ -22,11 +23,13 @@ Accomplishments
 
 May 2006 - present
 Wisesmile  
-Annapolis, Maryland  
+Brick, New Jersey  
 
-Freelance developer providing customized applications, consulting and project management for a wide range of small business clients. 
+Freelance developer providing customized applications, consulting and 
+project management for a wide range of small business clients. 
 
 Accomplishments
+* Personal artist website
 * Scheduling system for a music school
 * Bibliographic system for a library
 * Professional mentoring
@@ -46,7 +49,8 @@ FlackVentues
 Annapolis, Maryland  
 Senior Partner  
 
-Senior partner responsible for all aspects of the information technology practices at FlackVentures.  Including development of custom application 
+Senior partner responsible for all aspects of the information technology 
+practices at FlackVentures.  Including development of custom application 
 solutions and websites.
  
 December 2006 - March 2009  
