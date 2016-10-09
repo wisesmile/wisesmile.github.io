@@ -28,7 +28,7 @@ Brick, New Jersey
 Freelance developer providing customized applications, consulting and 
 project management for a wide range of small business clients. 
 
-Accomplishments
+Accomplishments  
 * Personal artist website
 * Scheduling system for a music school
 * Bibliographic system for a library
@@ -41,7 +41,7 @@ Application Developer
 
 Lead developer providing enhancement and ongoing maintenance of a customer portal.  
 The portal is a primary interface between AT&amp;T and it's customers to  
-review ofcritical system information.  It provides details on all aspects  
+review of critical system information.  It provides details on all aspects  
 of performance, events and service level agreements. 
 
 Developer on the 'ServiceNow' project, responsible for the SOAP interface 
