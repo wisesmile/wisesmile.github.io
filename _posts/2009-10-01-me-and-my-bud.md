@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Me and My Bud
 
 Mark: hey man  
